@@ -1,7 +1,7 @@
  
- alert("Hello welcome.. My Name is ANITA,🙋 a bot made by Emmanuel, you can call him Enigma, to help you build your resume without stress....  Click OK let's move")
+ alert("Hello welcome.. this is built by Emmanuel (Enigma), to help you build your resume without stress.... We've tried to make it as interactive as ever, Remember the code was written with phone, so forgive us on any shortcomings..  Click OK let's move")
  
- // Assogn first Variables for bio
+ // Assign first Variables for bio
 let userName = prompt ("What is Your Name dear? Your full name please, id need it for your resume");
   let occupation = prompt (" so what are you known for? e.g Copywriter or Designer etc🤔?")
   let phoneNumber = prompt ("Aww you are so Nice, Can I have your phone Number??  Maybe i can disturb you on WhatsApp 😜")
@@ -52,8 +52,8 @@ let secondName = prompt ("wait kindly provide Your Full Name again");
 let secondNumber = prompt ("your phone numebr");
 let secondMail = prompt ("and email Address");
 
-  alert(`Thanks ${userName} for your time, i really appreciate your patience, kindly click on the download button on your resume to print or down it as PDF, please endeavor to
- give us a feedback🤕`);
+  alert(`Thanks ${userName} for your time, i really appreciate your patience, kindly click on the download button on your resume to print or download it as PDF, please endeavor to
+ give us a feedback🤕 09053386778`);
 
   //Query Selectors from class
   const personName = document.querySelector('.name');
