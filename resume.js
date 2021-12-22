@@ -4,8 +4,8 @@
  // Assign first Variables for bio
 let userName = prompt ("What is Your Name dear? Your full name please, id need it for your resume");
   let occupation = prompt (" so what are you known for? e.g Copywriter or Designer etc🤔?")
-  let phoneNumber = prompt ("Aww you are so Nice, Can I have your phone Number??  Maybe i can disturb you on WhatsApp 😜")
-  let email = prompt (" Give me your email Address.. Bots don't do WhatsApp 🤦🏽‍♀️?")
+  let phoneNumber = prompt ("Nice, Can I have your phone Number??  Maybe i can disturb you on WhatsApp 😜")
+  let email = prompt (" kindly provide your email Address.. Bots don't do WhatsApp 🤦🏽‍♀️?")
   //Profile variable
 let  profile = prompt(`Please ${userName} Your Resume will need a Bio... write some little good things about you that would make your employers pick you among others😂 let it be a little long please, not those bio's on Facebook`)
 //SKILLS VARIABLES
